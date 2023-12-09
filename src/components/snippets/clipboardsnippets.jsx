@@ -24,7 +24,7 @@ const ClipboardSnippets = () => {
             </h3>
             <p className="text-[18px] text-[#9FABB2] font-[400]">
               Easily search your snippets by content, <br /> category, web
-              address, application, and more.
+              address, application, and more. uf
             </p>
           </div>
           <div className="mt-16">
