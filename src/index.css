@@ -9,3 +9,11 @@ body {
   background-position: top;
   background-size: contain;
 }
+@media (min-width: 300px) and (max-width: 768) {
+  body {
+    background-image: url(./assets/images/bg-header-mobile.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+  }
+}

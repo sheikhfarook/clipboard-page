@@ -1,4 +1,5 @@
 import "./App.css";
+import { TailwindIndicator } from "./components/TailwindIndicator";
 import Access from "./components/access/Access";
 import CompanyLogo from "./components/footer/companyLogo";
 import Contact from "./components/footer/contact";
@@ -20,6 +21,7 @@ function App() {
         <CompanyLogo />
         <DownloadClip />
         <Contact />
+        <TailwindIndicator />
       </div>
     </>
   );

@@ -1,6 +1,6 @@
 const WorkFlow = () => {
   return (
-    <div className="font-bai mt-12 text-center">
+    <div className="font-bai mt-12 text-center max-sm:w-10/12 max-sm:m-auto max-sm:mt-32">
       <h2 className="text-4xl text-[#4C545D] font-[600]">
         Supercharge your workflow
       </h2>
